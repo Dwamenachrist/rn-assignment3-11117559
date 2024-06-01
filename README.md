@@ -32,6 +32,5 @@ A button component intended for future task filtering functionality.
 
 ## Screenshots
 
-![Screenshot_20240601_100231_Expo Go](https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/8093d677-8a34-4777-82ef-10c16996231a)
-
-![Screenshot_20240601_100014_Expo Go](https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/7b08566c-c89f-4d83-9e0c-595c782e4fb7)
+<img src="https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/8093d677-8a34-4777-82ef-10c16996231a" width="250"> 
+<img src="https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/7b08566c-c89f-4d83-9e0c-595c782e4fb7" width="250">
