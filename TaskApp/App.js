@@ -3,6 +3,7 @@ import { StyleSheet, View } from 'react-native';
 import Header from "./components/header"
 import SearchBar from "./components/searchBar"
 import Categories from "./components/categories"
+import OngoingTasks from "./components/todo"
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
       <SearchBar />
       <StatusBar style="auto" />
       <Categories />
+      <OngoingTasks />
     </View>
   );
 }
