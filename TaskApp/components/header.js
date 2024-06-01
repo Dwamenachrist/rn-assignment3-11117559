@@ -8,7 +8,7 @@ const Header = () => {
       <View style={styles.headerContainer}>
 	  	<View style={styles.horizontal}>
         <Text style={styles.name}>Hello, Devs</Text>
-        <Text style={styles.task}>14 task today</Text>
+        <Text style={styles.task}>15 task today</Text>
 		</View>
 		<View style={styles.profileContainer}>
 		<TouchableOpacity>

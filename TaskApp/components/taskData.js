@@ -30,7 +30,19 @@ const TaskInfo = [
 	  name: "Sleep",
 	},
 	{
-	  name: "Sing",
+	  name: "Prepare presentation slides for group project",
+	},
+	{
+		name: "Submit online quiz for psychology class",
+	},
+	{
+		name: "Write first draft of lab report",
+	},
+	{
+		name: "Attend virtual study group for computer science project",
+	},
+	{
+		name: "SinEdit and revise essay for English literature classg",
 	},
   ];
   
