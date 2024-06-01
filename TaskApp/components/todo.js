@@ -33,7 +33,8 @@ const styles = StyleSheet.create({
     paddingBottom: 20,
   },
   taskbox: {
-    paddingVertical: 43,
+    paddingBottom: 43,
+    paddingTop: 30,
     borderColor: '#eddbc9',
     borderWidth: 1,
     borderRadius: 15,
@@ -41,8 +42,8 @@ const styles = StyleSheet.create({
     margin: 3,
   },
   taskName: {
-    fontSize: 20,
+    fontSize: 17,
     marginLeft: 10,
-    
+    fontWeight: 'bold',
   },
 })
