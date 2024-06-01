@@ -32,5 +32,5 @@ A button component intended for future task filtering functionality.
 
 ## Screenshots
 
-<img src="https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/8093d677-8a34-4777-82ef-10c16996231a" width="250"> 
-<img src="https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/7b08566c-c89f-4d83-9e0c-595c782e4fb7" width="250">
+<img src="https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/2453769a-ab2d-46c7-be2f-eaeaa5057fbd" width="250"> 
+<img src="https://github.com/Dwamenachrist/rn-assignment3-11117559/assets/136202826/7857066f-5ca7-4f31-bf31-7a5cbc2605e9" width="250">

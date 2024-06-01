@@ -42,7 +42,7 @@ const TaskInfo = [
 		name: "Attend virtual study group for computer science project",
 	},
 	{
-		name: "SinEdit and revise essay for English literature classg",
+		name: "Edit and revise essay for English literature class",
 	},
   ];
   
